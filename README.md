@@ -23,3 +23,6 @@ python -m pip install ffmpeg-python
 python -m pip install pillow
 
 Once installed, scroll down a bit to main(), and replace the username with your reddit username, password, client id and client secret, the default subreddit it checks is r/askreddit, with 1 submission and 3 comments.
+
+Here is a quick example with 1 submission and 3 commments
+https://youtube.com/shorts/zdxuvWBGSI4
