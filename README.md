@@ -1,7 +1,6 @@
 # RedditVideoMaker
 A python script that automatically makes reddit videos
 
-note; im new to coding, and it's probably not even perfect or efficient
 Important Note: The Minecraft Gameplay file will not be provided, I recommend downloading this: https://www.youtube.com/watch?v=u7kdVe8q5zs
 
 However, if you want to use your own, you must have it in the same folder as the reddit bot, and make sure the video is named to "Minecraft Parkour Gameplay No Copyright.mp4"
